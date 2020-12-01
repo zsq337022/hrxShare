@@ -15,7 +15,7 @@
 
 <script>
 export default {
-   layout:'upload1.0',
+   layout:'upload',
   data(){
     return {
       file:null,
